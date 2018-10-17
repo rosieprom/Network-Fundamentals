@@ -1,5 +1,5 @@
-# Network-Fundamentals
-Learning how to make a server! :smile: 
+# UDP Python Server 
+I was learning how to make a server! :smile: 
 
 To run, go to the root directory of this folder. 
 
